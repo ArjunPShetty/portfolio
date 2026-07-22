@@ -1136,7 +1136,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                   Row(
                     children: [
 
-                      _socialIcon(FontAwesomeIcons.linkedinIn, 'https://www.linkedin.com/in/arjun-p-shetty-8759142a1/'),
+                      _socialIcon(FontAwesomeIcons.linkedinIn, 'https://www.linkedin.com/in/arjunpshetty/'),
                       const SizedBox(width: 15),
                       _socialIcon(FontAwesomeIcons.github, 'https://github.com/ArjunPShetty'),
                       const SizedBox(width: 15),

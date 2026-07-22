@@ -45,7 +45,7 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.7",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.6",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.5",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -105,7 +105,7 @@
     },
     {
       "name": "font_awesome_flutter",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.12.0",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.10.0",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
@@ -123,7 +123,7 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.6.0",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.5.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -201,15 +201,15 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.22",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.18",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.7"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.5.1",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.2",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.7"
     },
     {
       "name": "path_provider_linux",
@@ -309,27 +309,27 @@
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.28",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.22",
       "packageUri": "lib/",
       "languageVersion": "3.9"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.6",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.4",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.7"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.2",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.5",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.3",
       "packageUri": "lib/",
-      "languageVersion": "3.9"
+      "languageVersion": "3.7"
     },
     {
       "name": "url_launcher_platform_interface",
@@ -345,9 +345,9 @@
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.5",
+      "rootUri": "file:///C:/Users/arjun/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.4",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.4"
     },
     {
       "name": "vector_math",
